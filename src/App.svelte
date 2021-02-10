@@ -18,7 +18,7 @@
     },
     {
       id: "m2",
-      title: "Swim Together",
+      title: "Swim Together!!",
       subtitle: "Let's go swimming!",
       description: "We will learn how to swim like dolphins",
       imageURL: "https://source.unsplash.com/weekly?water",

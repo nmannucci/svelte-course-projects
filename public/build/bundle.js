@@ -2991,9 +2991,9 @@ var app = (function () {
     			t2 = space();
     			create_component(meetupgrid.$$.fragment);
     			attr_dev(div, "class", "meetup-controls svelte-1w77hyv");
-    			add_location(div, file$8, 79, 2, 1896);
+    			add_location(div, file$8, 79, 2, 1898);
     			attr_dev(main, "class", "svelte-1w77hyv");
-    			add_location(main, file$8, 78, 0, 1887);
+    			add_location(main, file$8, 78, 0, 1889);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -3099,7 +3099,7 @@ var app = (function () {
     		},
     		{
     			id: "m2",
-    			title: "Swim Together",
+    			title: "Swim Together!!",
     			subtitle: "Let's go swimming!",
     			description: "We will learn how to swim like dolphins",
     			imageURL: "https://source.unsplash.com/weekly?water",
